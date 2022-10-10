@@ -10,7 +10,7 @@ Get the dataset from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tre
 ```Python
 import numpy as np
 import pandas as pd
-```
+```/
 ## Step 2: Importing dataset
 ```python
 dataset = pd.read_csv('Data.csv')
